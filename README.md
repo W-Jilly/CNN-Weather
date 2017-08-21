@@ -7,3 +7,6 @@ Matlab implementation of descriptior extraction procedure.
 Depdenency libararies:
 - Yael
 - VLFeat
+
+## CNN Feature Visualization
+Based on the implementation of Deconvnet in "Visualizing and understanding convolutional networks" (http://www.matthewzeiler.com/pubs/arxive2013/eccv2014.pdf).
